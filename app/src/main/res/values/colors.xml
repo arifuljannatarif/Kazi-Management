@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <color name="type1">#B95C5470</color>
+  <color name="type2">#8F4D4545</color>
+  <color name="type3">#8183142C</color>
+
+    <color name="colorPrimary">#546E7A</color>
+    <color name="colorPrimarydeep">#084D63</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#E03E0B</color>
+    <color name="green">#297C36</color>
+    <color name="grey">#828080</color>
+    <color name="colorgray">#828080</color>
+    <color name="graylight">#EEEEEE</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="Red">#FF0000</color>
+    <color name="blue">#0C34FC</color>
+    <color name="orange">#F08F6E</color>
+    <color name="orange_2">#F3CD6C</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="indigo">#FC452F69</color>
+    //tableview
+    <color name="cell_background_color">#F0AEAE</color>
+    <color name="header_line_color">#51A7F0</color>
+    <color name="toolbar_background">#546E7A</color>
+    <color name="statusbar_background">#506572</color>
+    <color name="text_color_1">#212121</color>
+    <color name="bg_color1">#EEEEEE</color>
+    <color name="bg_color2">#DCDEE3</color>
+    <color name="bg_color3">#95E1FFFF</color>
+    <color name="violet">#8660D3</color>
+    <color name="ashmani">#4774FB</color>
+    //tableview
+
+
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="blue_btn_bg_color">#458BC7</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="gray_btn_bg_color">#6D4E4E</color>
+    <color name="gray_btn_bg_pressed_color">#817F7F</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+    <color name="red_btn_bg_color">#DA5350</color>
+    <color name="red_btn_bg_pressed_color">#B4423D</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="text_color">#575757</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="positivebtn">#36599B</color>
+    <color name="info_btn_color">#EBEDF0</color>
+    <color name="marksheetsheemar_color">#60DA2626</color>
+    <color name="color_bg_3">#FDEBFCFF</color>
+    <color name="empty">#4DFCFFC9</color>
+    <color name="shimmerbg">#999494</color>
+
+
+</resources>

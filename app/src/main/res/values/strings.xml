@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kazi Manager</string>
+    <string name="add_new_txt">Add new</string>
+    <string name="wedding_txt">And</string>
+    <string name="refresh_txt">Refresh</string>
+    <string name="tichmark">🎀</string>
+    <string name="clock">🕒</string>
+    <string name="party">💰</string>
+    <string name="ration">8:2</string>
+
+    <string-array name="myoptions">
+        <item>View All</item>
+        <item>View Pending</item>
+        <item>View Finished</item>
+    </string-array>
+</resources>
